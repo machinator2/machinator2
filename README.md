@@ -1,34 +1,3 @@
-Skip to content
-Why GitHub? 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-grovesdixon
-/
-Drerio_early_ethanol_RNAseq
-Public
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Drerio_early_ethanol_RNAseq/wgcna/wgcna4_module-correlations.R
-
-Groves Dixon update to output dataframes of Tukey p-values
-Latest commit cf424a6 on Feb 9
- History
- 1 contributor
-474 lines (374 sloc)  16.2 KB
-  
 #wgcna4_module-correlations.R
 #This script calculates and plots relationships between 
 #module eigengenes and sample traits. Inputs come from:
